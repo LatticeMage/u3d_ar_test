@@ -480,7 +480,7 @@ MonoBehaviour:
     type: 3}
   spherePrefab: {fileID: 5831147533366745288, guid: 967a36847a022fa42a537212bcc69b9d,
     type: 3}
-  websiteURL: https://posetmage.com/Mickey/random.html
+  websiteURL: https://posetmage.com/
 --- !u!114 &1659859601
 MonoBehaviour:
   m_ObjectHideFlags: 0
